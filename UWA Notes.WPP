@@ -1,0 +1,110 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : UWA Notes
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Universal Windows 10 App
+    internal_properties : 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
+    configuration_id : 2698365637800913747
+    type : 20
+    generation_directory : .\Exe\Windows Phone
+    version :
+     major_version : 1
+     generation_version : 7
+    language : 1
+ elements :
+  identifier : 0x4d2c837e000255c5
+  elements :
+   -
+     name : FEN_Edition
+     identifier : 0x4d2d7028003f4b50
+     internal_properties : CAAAAAgAAAA+JBYKuebO4eSlMYVfrVi2MBcPlxVZLT125ShIe7JiTqZ4QWSuEhFGxXFrVd0T7+ErKw==
+     physical_name : .\FEN_Edition.wpw
+     type : 2
+   -
+     name : FEN_Confirmation
+     identifier : 0x4d491968001874b2
+     internal_properties : CAAAAAgAAAD3U9/D4F3V1v+saNgyEYlfJbQcRJoC7t1KZNMGU9qwcFCQa7pbrbbtvHhiXibaphriYg==
+     physical_name : .\FEN_Confirmation.wpw
+     type : 2
+   -
+     name : FEN_APropos
+     identifier : 0x4d467c6e001ba228
+     internal_properties : CAAAAAgAAADzTyt/zLnxKgMwTDwmJ+E/key4eFyOXyaiiF2mn4AS/vrWxeAnmZrRUMw2ggL++u7WXg==
+     physical_name : .\FEN_APropos.wpw
+     type : 2
+   -
+     name : FEN_Accueil
+     identifier : 0x4d2c83ce00498df5
+     internal_properties : CAAAAAgAAABKwLJWVRIaxZiZBWnj5Zxq1LsTS4k8L2qiZixXW9K6fl6geaxqXmUa6VVPqWlnE4VP1w==
+     physical_name : .\FEN_Accueil.wpw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.gif
+     configurations :
+      -
+        configuration_id : 2698365637800913747
+        excluded : true
+   -
+     physical_name : .\description.rtf
+     configurations :
+      -
+        configuration_id : 2698365637800913747
+        excluded : true
+  analysis : .\UWA Notes.ana\UWA Notes.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ languages :
+  - fr-FR
+ wb_style_sheet : .\WP7 Notes.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAA4Nt6ccopHRlplqTk5uU/Pl9CfWt4Cr+b6HgKecOoiDRXACGX4LfzmBnBT6Kk8ROygkWJrWWYDae0GU2+b
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      HCréationSiInexistant("*")
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Universal Windows 10 App
+     identifier : 0x4d2c837e00035623
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Problème lors de la création du répertoire des notes
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

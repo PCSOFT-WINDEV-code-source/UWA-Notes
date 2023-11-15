@@ -1,0 +1,142 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Confirmation
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Confirmation
+ identifier : 0x2d49196500c569e9
+ internal_properties : CAAAAAgAAAB3/E/q17dNjBa+JWzcLRTnlFqUN8UI5lvO4YZTiQSHKBwKkmKs2vY4kl4rO+coU+fhHdfO+0Fslf1RwLLO5yIDyiP3TXYXp4u0mDvQC2cfXLbN+AMLB+aNX9ZTjOpAzEglv8IBuv1hHKGRx/TkcDb2nKvbO24mu3KwjFXm5X5LhK1AR3o8N4IhQq/LqEj92DPiasWGuyqvYvlbj60BMWMN8KZrmnSFGd0t+aaf9WMEnOf4VhQzXLJcEttWdnrwTSD1R8CH+d3hsdOv5UTwxXjh79gIf5PcbrKrwbp/dm01nhkftw+eMrswZBchFd3eHBCa+oShJP6wx2sJG89U5Asdhd6o6cHdNeMqPaTk7i0eGRuFrnpjstapMROhHXp+rXc/0UdhM9TsWavM8BxHpPklpFezDv5mn+V2AOpibP0+eOk6MX3fcet6PhB1xCcv1nw0R13jAFR1XEnqOmZAgCXBPD5CjV3/5BTAOPOeShLbe1FV7fDUfPOfM1awBgYBYR4r6SdPK/ge+KJNUdxGgWuVATnxlWPMeBnbYkGSqGpZVV7oHDETZwci+g5logU5DrhuHNZREAwy1fq53cOTrQZzw9ijD42jgeEbsZDxZbLMWhxeySudz1WJoqiO6KMa8Mh1Wu8WCAS6zl+3S0Qd5woU/Qw9nxfw47d3qY8pk21qacIDGyPNwQgqSOHEc3HWxvB8dOj2wlnUJqM90GhgJ0beDSPvss44tbyK2qgPt+8ebS2lFXhhFZxGeua49hIRVeckPJ2xiRkF4OmTp9HyOs0ycKqEvfbikH6tlQ==
+ properties :
+  width : 320
+  height : 480
+ controls :
+  -
+    name : LIB_Titre3
+    identifier : 0x2d49198700cbeb96
+    internal_properties : CAAAAAgAAAA87Do+7NvsJBSeZdfpDdrMNGWiwzvZHYAJ63M7AOuITRKnSrg+iX1BiWb2RHynX4QD/plfth72J24bDP6aBavOnk/jVvhq8LKJtYYDgKCYPJXTukaryobWH916roeNlUa2IyW0PfUOKJ1NUww+EsXIi+nfq6qn2F8qilMgmSnlOG2p1BkO4OA9r9XSugZx2XnYvlqIEe1C0T2pbUjrp7lAAqPLnOb0eMkn5+eGd0eAiPAD4+t6bZlhdKE50Ze58AsBkdbg4sTfDsBoDDFqfVOry/d+gVhE8Pmd2WsjbWJQx7MZY/BO9mz3ePwPrYCOIkt5mqqoLCt3ehe7zQGNMNX5A3BlGew6BrzkjazuUNPjk/t7zV6qhruqnEHTqY0hbVPCOJbDAzbKF+q8LphdIT/4aLIafoaYIi4NI04xyZdefSFv+F4HWT+ymqJ7L8z5f8iNXRr6F4Pdx2q5QxjmjQqR3UVoNfsFERoD2ksVdVId3RF9ZQGaYKc=
+    properties :
+     x : 7
+     y : 161
+     width : 306
+     height : 90
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_Annuler
+    identifier : 0x2d4919bb010db70e
+    internal_properties : CAAAAAgAAAAzqcGYQQo+UE7YR97yqKp7bPC88JMbue/SDFdCfPwun0KxsXonx3Y4Gd4UFQhkrMR5lGxEr86Nk4P+nv0uLAZtgR26T1kBRZqSePA1by13DwVWBmLAyM5VSED922MRUtoU5cvBovjOUp7LClvwcVbpAHfnGfiEy4BlPr3OSUIC2bHaC8mOlRhDjW3EKL4akyxcusDGnBqAuIlIqrNx38SpFOnUhW6MSRwgeXIqgKF8o/uuMdkvPp14bpXFs1V+2gXwaW7ubWprl3jR/g3hDqYsbUqMrUYzW2scCj6smzFG9yqLISespmyyCkNdRCZB1Z+xHQCFsMaZKPROQoCpUkRZyWWeW8C3B30PiPvLWYi9ZLLOdiGfo3+oSyB3vwlxs19uvdd8HE3HPgeVMCIMBK0OfRKvoSdRhg6NVTMbIWVgMs+flad8TjB1t2YkelLBhXMQNg7wRlyYW40wzNBL/KRnutNCja141HrusQxItoDcGjJ7X6XQJuNI6sVmRSHZtJEpWc9JdXg1YwZuIAF5K/6T5N4YJqolg0QTvRhiQ1i9j22C80/SmiCFBk5Fya8yQqkSYE7aoQ+ZTJx+SdLY/R/VxtOHL3QCKgRa5wPxDjYI44J0ahisYyvFLtnE7cl93LviOiYD5BdCvp65YCHD5BZFGmBHmMNNYJgnBhRsLQt7c2hNOvbuQgCaDNI/ebbhGKjkqmVIkT3RghC+e9sJrSHZy/adzxANDMxVa4KmI5jgWcnun/odXLxYC1VXAdohCUwwyedscLPtwgQa83m8vXD2M4/Q0fg4Ch/2hmeLhUXwbJ289xtgiMxY4GeJIt0RkLGtclNHQxGiuT6iaGCtH3PHu+mNZMrV
+    properties :
+     x : 189
+     y : 272
+     width : 48
+     height : 48
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+         ferme()
+        type : 18
+  -
+    name : IMG_Valider
+    identifier : 0x2d491ace0119e907
+    internal_properties : CAAAAAgAAACbAZwQ9/GwCqI89iFk1dxiCYDvWCgrz6ZwmngLS67xrj+E5xpFhrGAfJKjPOC+iMRNNt49vSreB198SVP8GXeCUTnqTM73/D//8kSMn9hccHzY4zTy4RGQ/IwshiGFzVIqPnZhEegY+8J+PQn0t82hIzZrE3mPbVHF8xBGuzp9TjhiGZfpptQqW5HHW/HhmKaFeEcXbPp80xr2YTQ3ZyQMYiQeRzJtaUFA4MoFDG7s2b+OXHq6JL1xip533jhYe7NwDnRf3otM4/hDiVOAxSFSaKNWsff4AmwqHmeLGgrAAC+K8diPl3mk01fYf9IIU0cheCHFw5VPC8Sbz7HSIBMYnCJ/s1t794fU0QXb7qwkp393bI2esA8+1gzflc90ij5mv/YXcZV9AkV2cLxCWL4jwVI80uGK8qPgwNlixlNTLLXWbRDXzLCt+TgnKoFYPPSjuoSG39awdEqC8NBhxDyxBsjsk2cnAsjs55aP8wG//m8n965DtgYItzFB3mEAFcLbHMmXZ15FPY3NOQmJaPSbFO4odkizyXpHsWW4ZcejEV3owciWeA1rt/ZqEQSwYGCOKtVfHdIaN/vVcuLUOQUiCmclf0CA7iLHykAMOq77RO0VbtwvWrdMG97Pd5odhhwx8u4+Q7imIM61Weu09i2Vzd8sK1tupHmGTSGNqbstuJCjs7WdeCadQbnJC39e0Bif9D2fW7b8Xh/k5GAnmjChuuCuSjdvCo7MhWCUNI5CKV7RiernrYo21rIPZU2DBq3aXWuJtY7GjSuJMiLlbr/HEIHCL+4+EPUIRTLGkc2lq0zakXnxdmskWkwXUYpaaG3DwaeroPa6lcVRus3Q+oQO5LLYvGJ9
+    properties :
+     x : 83
+     y : 272
+     width : 48
+     height : 48
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1+
+         
+         // Supprime la note
+         SI HSupprime(Note) ALORS
+         	ToastAffiche(<§$0000§>)
+         	ZoneRépétéeAffiche(FEN_Accueil.ZR_Notes,taRéExecuteRequete)
+         	ferme()
+         FIN
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x2a2505a900438be8
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACXmAlrhmpQOJpht6dOopKlk8U8W1fBUd7iIKgQTg27gy9y57O4SqdxVxE0N/jEXgsjIetCX306KpKNnZLFZdby6+0GNKPOwlY2aoIw+SZi5Ut0zOVfzFU4HV7W
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      PROCEDURE FEN_Confirmation()
+      
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1d49195d000d4845
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      fr-FR : Note supprimée
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
